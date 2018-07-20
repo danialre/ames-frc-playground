@@ -4,7 +4,8 @@ public class TheBigChocolate {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		public static final int a = 10;
+		public static final int Sugaryness = 10;
+		
 	}
 
 }
